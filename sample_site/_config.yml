@@ -8,6 +8,6 @@ description: How to setup GH Pages + GH Actions for use with Jekyll 4
 url: "https://iwahle.github.io/" # "https://michaelcurrin.github.io"
 baseurl: "/personal_site3"
 
-github_username: MichaelCurrin
+github_username: iwahle
 
 theme: minima
