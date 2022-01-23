@@ -6,7 +6,7 @@ description: How to setup GH Pages + GH Actions for use with Jekyll 4
 ### Built settings ###
 
 url: "https://iwahle.github.io/" # "https://michaelcurrin.github.io"
-baseurl: "/personal_site3"
+baseurl: "/personal_site"
 
 github_username: iwahle
 
