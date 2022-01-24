@@ -14,3 +14,4 @@ Alongside my research, I am a beginning
 and love to [travel](travel.html). 
 
 If you would like to chat about any of these topics, please reach out!
+
