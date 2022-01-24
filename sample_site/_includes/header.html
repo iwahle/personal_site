@@ -21,7 +21,7 @@
             {%- for p in pages -%}
               {%- if p.title -%}
                 {%- if p.menu=="main" -%}
-                    <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                    <a class="page-link" href="{{ my_page.url | relative_url }}">{{ p.title | escape }}</a>
                 {%- endif -%}
               {%- endif -%}
             {%- endfor -%}
