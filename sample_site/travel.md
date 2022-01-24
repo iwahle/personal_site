@@ -3,6 +3,13 @@ title: Travel
 layout: page
 ---
 
-# TODO
+## [Europe 2022]("travel_posts/2022-01-18-europe.md")
 
-## [Trip 1]("_posts/2022_01_18_test.md")
+## Puerto Vallarta 2022
+
+## New Orleans 2021
+
+## Southern California Coast 2021
+
+## Morro Bay 2021
+
