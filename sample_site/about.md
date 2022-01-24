@@ -1,8 +1,10 @@
 ---
-title: About Actions
+title: About Me
 layout: page
 ---
 
+TODO
+<!-- 
 ## Comparison
 
 GitHub's Actions functionality as a build and deploy pipeline for a Jekyll site gives more control than a standard _GitHub Pages_ deploy.
@@ -32,4 +34,4 @@ Even if a plugin or themes written for Jekyll 3 installs and runs without error 
 
 See the [Upgrading from 3x to 4x](https://jekyllrb.com/docs/upgrading/3-to-4/) guide to see what changes there are.
 
-See also issue [#651](https://github.com/github/pages-gem/issues/651) on the Pages Gem repo, which deals with adding Jekyll 4 support to GitHub Pages. This is complex to implement, so don't expect it soon.
+See also issue [#651](https://github.com/github/pages-gem/issues/651) on the Pages Gem repo, which deals with adding Jekyll 4 support to GitHub Pages. This is complex to implement, so don't expect it soon. -->
