@@ -11,5 +11,3 @@ baseurl: "/personal_site"
 github_username: iwahle
 
 theme: minima
-
-paginate: true

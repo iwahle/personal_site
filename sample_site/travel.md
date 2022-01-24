@@ -1,6 +1,7 @@
 ---
 title: Travel
 layout: page
+menu: main
 ---
 
 ## [Europe 2022](travel_posts/2022-01-18-europe.html)
