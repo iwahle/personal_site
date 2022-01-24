@@ -1,6 +1,5 @@
 ---
 layout: home
-menu: main
 ---
 
 # Hello! I'm Iman.
