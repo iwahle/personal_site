@@ -19,3 +19,5 @@ April 11 2022
 <a href="https://drive.google.com/uc?export=view&id=1VgQzAfI7PabWPZE8p81Nkm1iulU5ZGTX"><img src="https://drive.google.com/uc?export=view&id=1VgQzAfI7PabWPZE8p81Nkm1iulU5ZGTX" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 <a href="https://drive.google.com/uc?export=view&id=1YMRAg72MCXRdA7KdbUrgKoPHXP8OSaB6"><img src="https://drive.google.com/uc?export=view&id=1YMRAg72MCXRdA7KdbUrgKoPHXP8OSaB6" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+
+![image](https://drive.google.com/uc?export=view&id=1VgQzAfI7PabWPZE8p81Nkm1iulU5ZGTX)
