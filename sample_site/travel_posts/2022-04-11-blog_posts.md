@@ -1,4 +1,3 @@
-
 ---
 layout: post
 # title: Europe 2022
