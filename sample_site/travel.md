@@ -3,7 +3,7 @@ title: Travel
 layout: page
 ---
 
-## [Europe 2022](travel_posts/blog_posts.html)
+## [Europe 2022](travel_posts/2022-04-11-blog_posts.html)
 
 ## Puerto Vallarta 2022
 

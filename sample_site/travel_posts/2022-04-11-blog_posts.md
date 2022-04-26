@@ -1,4 +1,8 @@
 
+---
+layout: post
+# title: Europe 2022
+---
 
 
 April 11 2022
