@@ -7,15 +7,7 @@ layout: post
 April 11 2022
 --------------------------------------------
 
-<!-- <img src="https://drive.google.com/file/d/1VgQzAfI7PabWPZE8p81Nkm1iulU5ZGTX/view?usp=sharing" alt="test">
+![image](https://drive.google.com/uc?export=view&id=1JzlBnikyFqE4mALFYy3u2MlW6fWMn9ZR)
 
-<img src="https://drive.google.com/file/d/1YMRAg72MCXRdA7KdbUrgKoPHXP8OSaB6/view?usp=sharing" alt="test2">
+![image](https://drive.google.com/uc?export=view&id=1j5AScZYSqmK3k-_xDG2uVUYlEr0gr5Gh)
 
-![image](https://drive.google.com/file/d/1VgQzAfI7PabWPZE8p81Nkm1iulU5ZGTX/view?usp=sharing)
-
-
-![image](https://drive.google.com/file/d/1YMRAg72MCXRdA7KdbUrgKoPHXP8OSaB6/view?usp=sharing) -->
-
-![image](https://drive.google.com/uc?export=view&id=1VgQzAfI7PabWPZE8p81Nkm1iulU5ZGTX)
-
-![image](https://drive.google.com/uc?export=view&id=1YMRAg72MCXRdA7KdbUrgKoPHXP8OSaB6)
