@@ -20,7 +20,7 @@ start my trip on Monday, April 11th!
   <img src="https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA" width="100" /> 
 </p>
 
-![image](https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA)
+<!-- ![image](https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA) -->
 
 ![image](https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo)
 
