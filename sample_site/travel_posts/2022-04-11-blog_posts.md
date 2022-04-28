@@ -147,22 +147,22 @@ Daily cat pic:
 
 ![image](https://drive.google.com/uc?export=view&id=1M1jHk7a-ibkfoPwZ8DmO4LJVt32uPk69)
 
-# Hiking through Cinque Terre
+# April 15 2022: Hiking through Cinque Terre
 -------------------------------------------------------------------------------
 Coming soon!
 
-# Exploring Camogli
+# April 16 2022: Exploring Camogli
 -------------------------------------------------------------------------------
 Coming soon!
 
-# Genoa + Bordighera
+# April 17 2022: Genoa + Bordighera
 -------------------------------------------------------------------------------
 Coming soon!
 
-# Saint-Raphael, France
+# April 18 2022: Saint-Raphael, France
 -------------------------------------------------------------------------------
 Coming soon!
 
-# Ceramics classes!
+# April 18 2022 - current: Ceramics classes!
 -------------------------------------------------------------------------------
 Coming soon!
