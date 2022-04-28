@@ -13,7 +13,12 @@ start my trip on Monday, April 11th!
 
 ![image](https://drive.google.com/uc?export=view&id=1JzlBnikyFqE4mALFYy3u2MlW6fWMn9ZR)
 
-![image](https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ) ![image](https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA)
+<!-- ![image](https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ) ![image](https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA) -->
+
+<p float="left">
+  <img src="https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ" width="100" />
+  <img src="https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA" width="100" /> 
+</p>
 
 ![image](https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA)
 
