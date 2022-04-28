@@ -29,7 +29,7 @@ or Rupesh while I've been away):
 
 ![image](https://drive.google.com/uc?export=view&id=1OR7hX_sUV7WRL0FfGpp_Q1mzP3sQBcRX)
 
-
+<!-- 
 # April 12 2022: First night in Florence
 -------------------------------------------------------------------------------
 
@@ -170,4 +170,4 @@ Coming soon!
 
 # April 18 2022 - current: Ceramics classes!
 -------------------------------------------------------------------------------
-Coming soon!
+Coming soon! -->
