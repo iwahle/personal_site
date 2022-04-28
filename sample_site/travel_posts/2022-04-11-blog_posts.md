@@ -3,17 +3,26 @@ layout: post
 # title: Europe 2022
 ---
 
-Notes coming soon :) 
-
 # April 11 2022: Headed to Florence!
 -------------------------------------------------------------------------------
 
-After getting to spend some extra time with my wonderful housemates, I set off
-to LAX to start my trip on Monday, April 11th!
+After a fun and busy week of packing, visiting my parents in Portland, and 
+spending time with my lovely Lincoln house housemates, I set off to LAX to 
+start my trip on Monday, April 11th!
 
 ![image](https://drive.google.com/uc?export=view&id=1JzlBnikyFqE4mALFYy3u2MlW6fWMn9ZR)
 
+![image](https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ)
+
+![image](https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA)
+
 ![image](https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo)
+
+Daily cat pic (many of the cat pictures to come were taken by Kara, Ben, Anya, 
+or Rupesh while I've been away):
+
+![image](https://drive.google.com/uc?export=view&id=1OR7hX_sUV7WRL0FfGpp_Q1mzP3sQBcRX)
+
 
 # April 12 2022: First night in Florence
 -------------------------------------------------------------------------------
@@ -24,6 +33,10 @@ that every meal was just going to be on a whole other level for the rest of the
 week. 
 
 ![image](https://drive.google.com/uc?export=view&id=18EfqoTfK4OiOi45JNtqHmPIWuj-wHlxc)
+
+Daily cat pic:
+
+![image](https://drive.google.com/uc?export=view&id=1Sq5rlQxLpR6MnctuVW242WbqsdoSQZ0E)
 
 # April 13 2022: Florence sight-seeing
 -------------------------------------------------------------------------------
@@ -82,6 +95,10 @@ Some random things I learned today:
   with a lot of Italian hand-waving. You will not get to cross the street
 - Chinese dumplings are called raviolis here
 
+Daily cat pic:
+
+![image](https://drive.google.com/uc?export=view&id=1optN1DTHNh_yPZelzHHmJ4E-4aUDUgkn)
+
 # April 14 2022: Pisa + Riomaggiore
 -------------------------------------------------------------------------------
 I woke up early today and took the trip to Pisa as a first stop before
@@ -124,6 +141,10 @@ over the water:
 ![image](https://drive.google.com/uc?export=view&id=19g80GG6-VQcaKV7-TqSZmbvHRV3SKmcI)
 
 ![image](https://drive.google.com/uc?export=view&id=1KrJYQ_VZEWxc5LCovEN9BO-Tw8T2TB8R)
+
+Daily cat pic:
+
+![image](https://drive.google.com/uc?export=view&id=1M1jHk7a-ibkfoPwZ8DmO4LJVt32uPk69)
 
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
