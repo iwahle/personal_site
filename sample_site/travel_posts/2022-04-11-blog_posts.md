@@ -20,7 +20,7 @@ start my trip on Monday, April 11th!
 
 <!-- ![image](https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo) -->
 <p float="center">
-  <img src="https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo" width="50%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo" width="50%" class="center"/>
 </p>
 
 Daily cat pic (many of the cat pictures to come were taken by Kara, Ben, Anya, 
