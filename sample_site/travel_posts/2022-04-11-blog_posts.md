@@ -14,13 +14,13 @@ start my trip on Monday, April 11th!
 ![image](https://drive.google.com/uc?export=view&id=1JzlBnikyFqE4mALFYy3u2MlW6fWMn9ZR)
 
 <p float="center">
-  <img src="https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ" width="49%"/>
-  <img src="https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA" width="49%"/> 
+  <img src="https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ" width="50%"/>
+  <img src="https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA" width="50%"/> 
 </p>
 
 <!-- ![image](https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo) -->
 <p float="center">
-  <img src="https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo" width="50%"/>
 </p>
 
 Daily cat pic (many of the cat pictures to come were taken by Kara, Ben, Anya, 
