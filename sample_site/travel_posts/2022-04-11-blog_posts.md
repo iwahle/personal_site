@@ -13,16 +13,15 @@ start my trip on Monday, April 11th!
 
 ![image](https://drive.google.com/uc?export=view&id=1JzlBnikyFqE4mALFYy3u2MlW6fWMn9ZR)
 
-<!-- ![image](https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ) ![image](https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA) -->
-
 <p float="center">
-  <img src="https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ" width="45%" />
-  <img src="https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA" width="45%" /> 
+  <img src="https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA" width="49%"/> 
 </p>
 
-<!-- ![image](https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA) -->
-
-![image](https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo)
+<!-- ![image](https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo) -->
+<p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo" width="49%"/>
+</p>
 
 Daily cat pic (many of the cat pictures to come were taken by Kara, Ben, Anya, 
 or Rupesh while I've been away):
@@ -77,9 +76,14 @@ Palazzo Vecchio, and Ponte Vecchio.
 
 ![image](https://drive.google.com/uc?export=view&id=182goQ6xwwutsw2gSm59AjMQf5ogACCou)
 
-![image](https://drive.google.com/uc?export=view&id=1z18rUsBQCf8oa6hvN7UTRUpJ_Aa87G5X)
+<!-- ![image](https://drive.google.com/uc?export=view&id=1z18rUsBQCf8oa6hvN7UTRUpJ_Aa87G5X)
 
-![image](https://drive.google.com/uc?export=view&id=13TSAwA__COp-jYcBHHQiOQxF2Bwx2yMG)
+![image](https://drive.google.com/uc?export=view&id=13TSAwA__COp-jYcBHHQiOQxF2Bwx2yMG) -->
+<p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=1z18rUsBQCf8oa6hvN7UTRUpJ_Aa87G5X" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=13TSAwA__COp-jYcBHHQiOQxF2Bwx2yMG" width="49%"/> 
+</p>
+
 In the Salone dei Cinquecento (hall of the five hundred) at Palazzo Vecchio,
 there was this drawing of the hall full to capacity that made it so much cooler
 to see the room and think about how it would've actually been used at the time.
@@ -88,9 +92,14 @@ to see the room and think about how it would've actually been used at the time.
 
 More amazing food - chocolate and hazelnut gelato, pici with bolognese:
 
-![image](https://drive.google.com/uc?export=view&id=1xTpDoVYhx74D26sFZUivd69GYIik_N8v)
+<!-- ![image](https://drive.google.com/uc?export=view&id=1xTpDoVYhx74D26sFZUivd69GYIik_N8v)
 
-![image](https://drive.google.com/uc?export=view&id=1Mmmzs_M824x0z4svnUo6Hslj9t6aV6ex)
+![image](https://drive.google.com/uc?export=view&id=1Mmmzs_M824x0z4svnUo6Hslj9t6aV6ex) -->
+
+<p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=1xTpDoVYhx74D26sFZUivd69GYIik_N8v" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Mmmzs_M824x0z4svnUo6Hslj9t6aV6ex" width="49%"/> 
+</p>
 
 Some random things I learned today:
 
