@@ -15,7 +15,7 @@ start my trip on Monday, April 11th!
 
 <p float="center">
   <img src="https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ" width="50%"/>
-  <img src="https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA" width="50%"/> 
+  <img src="https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA" width="49%"/> 
 </p>
 
 <!-- ![image](https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo) -->
@@ -80,7 +80,7 @@ Palazzo Vecchio, and Ponte Vecchio.
 
 ![image](https://drive.google.com/uc?export=view&id=13TSAwA__COp-jYcBHHQiOQxF2Bwx2yMG) -->
 <p float="center">
-  <img src="https://drive.google.com/uc?export=view&id=1z18rUsBQCf8oa6hvN7UTRUpJ_Aa87G5X" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1z18rUsBQCf8oa6hvN7UTRUpJ_Aa87G5X" width="50%"/>
   <img src="https://drive.google.com/uc?export=view&id=13TSAwA__COp-jYcBHHQiOQxF2Bwx2yMG" width="49%"/> 
 </p>
 
@@ -97,7 +97,7 @@ More amazing food - chocolate and hazelnut gelato, pici with bolognese:
 ![image](https://drive.google.com/uc?export=view&id=1Mmmzs_M824x0z4svnUo6Hslj9t6aV6ex) -->
 
 <p float="center">
-  <img src="https://drive.google.com/uc?export=view&id=1xTpDoVYhx74D26sFZUivd69GYIik_N8v" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1xTpDoVYhx74D26sFZUivd69GYIik_N8v" width="50%"/>
   <img src="https://drive.google.com/uc?export=view&id=1Mmmzs_M824x0z4svnUo6Hslj9t6aV6ex" width="49%"/> 
 </p>
 
