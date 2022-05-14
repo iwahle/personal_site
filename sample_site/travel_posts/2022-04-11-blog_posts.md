@@ -14,13 +14,13 @@ start my trip on Monday, April 11th!
 ![image](https://drive.google.com/uc?export=view&id=1JzlBnikyFqE4mALFYy3u2MlW6fWMn9ZR)
 
 <p float="center">
-  <img src="https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ" width="50%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ" width="49%"/>
   <img src="https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA" width="49%"/> 
 </p>
 
 <!-- ![image](https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo) -->
 <p float="center">
-  <img src="https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo" width="50%" class="center"/>
+  <img src="https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo" width="49%" class="center"/>
 </p>
 
 Daily cat pic (many of the cat pictures to come were taken by Kara, Ben, Anya, 
@@ -97,7 +97,7 @@ More amazing food - chocolate and hazelnut gelato, pici with bolognese:
 ![image](https://drive.google.com/uc?export=view&id=1Mmmzs_M824x0z4svnUo6Hslj9t6aV6ex) -->
 
 <p float="center">
-  <img src="https://drive.google.com/uc?export=view&id=1xTpDoVYhx74D26sFZUivd69GYIik_N8v" width="50%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1xTpDoVYhx74D26sFZUivd69GYIik_N8v" width="49%"/>
   <img src="https://drive.google.com/uc?export=view&id=1Mmmzs_M824x0z4svnUo6Hslj9t6aV6ex" width="49%"/> 
 </p>
 
@@ -138,13 +138,16 @@ very long tunnel:
 
 My first half-hour in Riomaggiore was spent going up many flights of stairs:
 
-![image](https://drive.google.com/uc?export=view&id=1QYHRgBpwIdZQspv7f3svJ6yJODr9rX6O)
+<p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=1QYHRgBpwIdZQspv7f3svJ6yJODr9rX6O" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1wXc2aqvLeDZtYjRpIoEkYYnQWTzsWVXO" width="49%"/> 
+</p>
 
-![image](https://drive.google.com/uc?export=view&id=1wXc2aqvLeDZtYjRpIoEkYYnQWTzsWVXO)
+<p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=1HP7QHlNCEy2-Y8waDLJhgYrqQPT4aEe0" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1HfMXM8OS-gnvKmcp-Vh2LVQ2TlhSjl3x" width="49%"/> 
+</p>
 
-![image](https://drive.google.com/uc?export=view&id=1HP7QHlNCEy2-Y8waDLJhgYrqQPT4aEe0)
-
-![image](https://drive.google.com/uc?export=view&id=1HfMXM8OS-gnvKmcp-Vh2LVQ2TlhSjl3x)
 
 But the view at the top was amazing!
 
