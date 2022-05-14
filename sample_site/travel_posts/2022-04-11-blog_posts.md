@@ -11,14 +11,16 @@ After a fun and busy week of packing, visiting my parents in Portland, and
 spending time with my lovely Lincoln house housemates, I set off to LAX to 
 start my trip on Monday, April 11th!
 
+
 ![image](https://drive.google.com/uc?export=view&id=1JzlBnikyFqE4mALFYy3u2MlW6fWMn9ZR)
 
+Portland activities:
 <p float="center">
   <img src="https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ" width="49%"/>
   <img src="https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA" width="49%"/> 
 </p>
 
-<!-- ![image](https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo) -->
+Flight out:
 <p float="center">
   <img src="https://drive.google.com/uc?export=view&id=1oMaWkQ-H2FteGP8i8B-R-8GtvYO08Opo" width="49%" class="center"/>
 </p>
@@ -136,6 +138,10 @@ very long tunnel:
 
 ![image](https://drive.google.com/uc?export=view&id=1o9Pp9RvujWNXqCiEN_yavG_gm-Q4Tmc7)
 
+Train station - right on the water!
+
+![image](https://drive.google.com/file/d/1a_cf1-NAiyll65UcSgvX3OTrvnRnZTXC/view?usp=sharing)
+
 My first half-hour in Riomaggiore was spent going up many flights of stairs:
 
 <p float="center">
@@ -166,7 +172,37 @@ Daily cat pic:
 
 # April 15 2022: Hiking through Cinque Terre
 -------------------------------------------------------------------------------
-Coming soon!
+Today I did a combination of hiking and train rides through Cinque Terre. 
+Starting in Riomaggiore, I took the Beccara trail to the second town up the 
+coast, Manarola. This trail consisted of many stairs alongside beautiful
+vineyards and seaside cliffs.
+
+View from the top:
+
+![image](https://drive.google.com/file/d/1vg_jK6RiBEaxmuMNaaQTebiQueoB8gID/view?usp=sharing)
+
+Cool rock:
+![image](https://drive.google.com/file/d/18_Z3sSL4IEcNquqQy0USo8EjX2QSH6Wf/view?usp=sharing)
+
+After stopping for lunch (spaghetti with clams!) and exploring Manarola, I took 
+the train on to Corniglia. I think this was my favorite of the towns, perched
+up higher on a seaside hill and composed of narrow alleys filled with cafes
+and shops (and a very cute and amazingly calm cat).
+
+From here, I did the hike to Vernazza, which was pretty challenging for me with
+my pack but also had the most amazing views on stretches of trail hanging right
+over the water.
+
+After a celebratory focaccia in Vernazza, I continued on to La Spezia for the
+night (having to bypass the last of the five towns, Monterosso al Mare due
+to time).
+
+Looking back, this is one of the most memorable parts of my trip so far!
+The day was full with some of the most breathtaking ocean views I've ever seen 
+and it was fascinating to see the towns and communities that exist in such a 
+unique area. Though the towns are fairly overrun with tourists now, I am 
+thankful that they have been preserved to the extent that they are and that I 
+had a chance to see them.
 
 # April 16 2022: Exploring Camogli
 -------------------------------------------------------------------------------
