@@ -177,21 +177,48 @@ Starting in Riomaggiore, I took the Beccara trail to the second town up the
 coast, Manarola. This trail consisted of many stairs alongside beautiful
 vineyards and seaside cliffs.
 
+
 View from the top:
 
-![image](https://drive.google.com/file/d/1vg_jK6RiBEaxmuMNaaQTebiQueoB8gID/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1vg_jK6RiBEaxmuMNaaQTebiQueoB8gID)
 
 Cool rock:
-![image](https://drive.google.com/file/d/18_Z3sSL4IEcNquqQy0USo8EjX2QSH6Wf/view?usp=sharing)
+
+![image](https://drive.google.com/uc?export=view&id=18_Z3sSL4IEcNquqQy0USo8EjX2QSH6Wf)
+
+Manarola:
+
+![image](https://drive.google.com/uc?export=view&id=114f_YqPn7NU-b3DlPNATKs4FhxMfLrCh)
+![image](https://drive.google.com/uc?export=view&id=16FHtC_bt62qS2bFwrgnvH09reqBwthnj)
+![image](https://drive.google.com/uc?export=view&id=114f_YqPn7NU-b3DlPNATKs4FhxMfLrCh)
 
 After stopping for lunch (spaghetti with clams!) and exploring Manarola, I took 
 the train on to Corniglia. I think this was my favorite of the towns, perched
 up higher on a seaside hill and composed of narrow alleys filled with cafes
 and shops (and a very cute and amazingly calm cat).
 
+![image](https://drive.google.com/uc?export=view&id=1CSjfxqEfu1Y3uiPDjCpWQlizWEHZCq0m)
+![image](https://drive.google.com/uc?export=view&id=19MDYMHts56U61fI2ZMToXh0-Cbdhi0cs)
+
 From here, I did the hike to Vernazza, which was pretty challenging for me with
 my pack but also had the most amazing views on stretches of trail hanging right
 over the water.
+
+Start of the hike:
+![image](https://drive.google.com/uc?export=view&id=1t43leLQPj1_R_C337t5r3dSfGeEVihcI)
+
+Still hiking...
+![image](https://drive.google.com/uc?export=view&id=1gQm8Q4aVsUIUbZ-nv6oRBduSsvdwotO2)
+
+Made it to the top!
+![image](https://drive.google.com/uc?export=view&id=1DTTPXEbSchA0PBoybY5gIl3UPKLCVgZr)
+
+Wowow:
+![image](https://drive.google.com/uc?export=view&id=1ZGm5une-2Yk7CtNJQqNXSLGInj44adbk)
+
+Descending into Vernazza:
+![image](https://drive.google.com/uc?export=view&id=1WBdSfXaTT_L--la1d8elvWYsBzl3jds6)
+
 
 After a celebratory focaccia in Vernazza, I continued on to La Spezia for the
 night (having to bypass the last of the five towns, Monterosso al Mare due
