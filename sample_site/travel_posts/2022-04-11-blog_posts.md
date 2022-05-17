@@ -280,7 +280,33 @@ remembered to take a picture):
 
 # April 17 2022: Genoa + Bordighera
 -------------------------------------------------------------------------------
-Coming soon!
+
+After my visit to Camogli, I spent the night in Genoa and got to explore for
+a couple hours in the morning. I walked around the old town, an area made up
+of narrow alleys that get you turned around very easily. 
+
+![image](https://drive.google.com/uc?export=view&id=15eReilIZ56Hx6BwVVgxZaXGW94v8a0qY)
+
+![image](https://drive.google.com/uc?export=view&id=1w3yQTS9dYKWxGiOw7YMkeSUNuKsmhLNF)
+
+While most of the city was closed on Sunday, I accidentally happened upon a 
+huge international food celebration on the waterfront! There were stands with
+6-foot diameter paellas, Argentinian barbecues, Thai street food, and so much
+more. Next to all of these stands, the American stand was pretty embarrassing 😭.
+
+![image](https://drive.google.com/uc?export=view&id=1ivk9CKC8elS5MgZnbMoS1IHAl7JwUYfr)
+
+![image](https://drive.google.com/uc?export=view&id=1Br5pSCRdr49S-HpJWfKyKNqmX5TiBrHO)
+
+From here I caught the train to Bordighera, close to the Italy-France border. I
+enjoyed one last night of Italian food before heading to France the next day!
+
+Afternoon coffee + focaccia, and gnocchi with clams and pesto for dinner:
+
+<p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=1VqVW2edzFCPCV_3tvbg8iCE3R7lGE6Ch" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1teyOReUde_EimbJOAghv8_NSBDmyqQC6" width="49%"/> 
+</p>
 
 # April 18 2022: Saint-Raphael, France
 -------------------------------------------------------------------------------
