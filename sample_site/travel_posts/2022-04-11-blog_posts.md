@@ -82,7 +82,7 @@ Palazzo Vecchio, and Ponte Vecchio.
 
 ![image](https://drive.google.com/uc?export=view&id=13TSAwA__COp-jYcBHHQiOQxF2Bwx2yMG) -->
 <p float="center">
-  <img src="https://drive.google.com/uc?export=view&id=1z18rUsBQCf8oa6hvN7UTRUpJ_Aa87G5X" width="50%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1z18rUsBQCf8oa6hvN7UTRUpJ_Aa87G5X" width="49%"/>
   <img src="https://drive.google.com/uc?export=view&id=13TSAwA__COp-jYcBHHQiOQxF2Bwx2yMG" width="49%"/> 
 </p>
 
@@ -109,7 +109,8 @@ Some random things I learned today:
   Florence. Shorts, I was quickly informed, were a "brave" choice in such 
   conditions
 - Asserting yourself as a pedestrian at a crosswalk will only get you yelled at
-  with a lot of Italian hand-waving. You will not get to cross the street
+  in Italian with a lot of dramatic hand-waving. You will not get to cross the 
+  street
 - Chinese dumplings are called raviolis here
 
 Daily cat pic:
@@ -178,7 +179,6 @@ Starting in Riomaggiore, I took the Beccara trail to the second town up the
 coast, Manarola. This trail consisted of many stairs alongside beautiful
 vineyards and seaside cliffs.
 
-
 View from the top:
 
 ![image](https://drive.google.com/uc?export=view&id=1vg_jK6RiBEaxmuMNaaQTebiQueoB8gID)
@@ -192,8 +192,6 @@ Manarola:
 ![image](https://drive.google.com/uc?export=view&id=114f_YqPn7NU-b3DlPNATKs4FhxMfLrCh)
 
 ![image](https://drive.google.com/uc?export=view&id=16FHtC_bt62qS2bFwrgnvH09reqBwthnj)
-
-![image](https://drive.google.com/uc?export=view&id=114f_YqPn7NU-b3DlPNATKs4FhxMfLrCh)
 
 After stopping for lunch (spaghetti with clams!) and exploring Manarola, I took 
 the train on to Corniglia. I think this was my favorite of the towns, perched
@@ -278,6 +276,10 @@ remembered to take a picture):
 
 ![image](https://drive.google.com/uc?export=view&id=1sG0y1Koo__Z-bi20Q2f2os2NlYlm9D7o)
 
+Daily cat pic:
+
+![image](https://drive.google.com/uc?export=view&id=1qy40hFZ0BjStcJpl7RerRG4JhgWVR0lZ)
+
 # April 17 2022: Genoa + Bordighera
 -------------------------------------------------------------------------------
 
@@ -307,6 +309,10 @@ Afternoon coffee + focaccia, and gnocchi with clams and pesto for dinner:
   <img src="https://drive.google.com/uc?export=view&id=1VqVW2edzFCPCV_3tvbg8iCE3R7lGE6Ch" width="49%"/>
   <img src="https://drive.google.com/uc?export=view&id=1teyOReUde_EimbJOAghv8_NSBDmyqQC6" width="49%"/> 
 </p>
+
+Daily cat pic:
+
+![image](https://drive.google.com/uc?export=view&id=159j3DJwxXJH3ULyq5C32RMy531SlKD4u)
 
 # April 18 2022: Saint-Raphael, France
 -------------------------------------------------------------------------------
