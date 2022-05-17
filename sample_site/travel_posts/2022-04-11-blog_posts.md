@@ -172,6 +172,7 @@ Daily cat pic:
 
 # April 15 2022: Hiking through Cinque Terre
 -------------------------------------------------------------------------------
+
 Today I did a combination of hiking and train rides through Cinque Terre. 
 Starting in Riomaggiore, I took the Beccara trail to the second town up the 
 coast, Manarola. This trail consisted of many stairs alongside beautiful
@@ -189,7 +190,9 @@ Cool rock:
 Manarola:
 
 ![image](https://drive.google.com/uc?export=view&id=114f_YqPn7NU-b3DlPNATKs4FhxMfLrCh)
+
 ![image](https://drive.google.com/uc?export=view&id=16FHtC_bt62qS2bFwrgnvH09reqBwthnj)
+
 ![image](https://drive.google.com/uc?export=view&id=114f_YqPn7NU-b3DlPNATKs4FhxMfLrCh)
 
 After stopping for lunch (spaghetti with clams!) and exploring Manarola, I took 
@@ -198,6 +201,7 @@ up higher on a seaside hill and composed of narrow alleys filled with cafes
 and shops (and a very cute and amazingly calm cat).
 
 ![image](https://drive.google.com/uc?export=view&id=1CSjfxqEfu1Y3uiPDjCpWQlizWEHZCq0m)
+
 ![image](https://drive.google.com/uc?export=view&id=19MDYMHts56U61fI2ZMToXh0-Cbdhi0cs)
 
 From here, I did the hike to Vernazza, which was pretty challenging for me with
@@ -219,8 +223,10 @@ Wowow:
 Descending into Vernazza:
 ![image](https://drive.google.com/uc?export=view&id=1WBdSfXaTT_L--la1d8elvWYsBzl3jds6)
 
+👀:
+![image](https://drive.google.com/uc?export=view&id=1UXIb5VwZWbUsKHDsyb3tNmdc-wan856u)
 
-After a celebratory focaccia in Vernazza, I continued on to La Spezia for the
+After a celebratory focaccia in Vernazza, I continued on to Levanto for the
 night (having to bypass the last of the five towns, Monterosso al Mare due
 to time).
 
@@ -231,9 +237,46 @@ unique area. Though the towns are fairly overrun with tourists now, I am
 thankful that they have been preserved to the extent that they are and that I 
 had a chance to see them.
 
+Daily cat pic:
+
+![image](https://drive.google.com/uc?export=view&id=1vir8eD3Rg9mDWwPTQ4rT-SXfiVdfoO1E)
+
+
 # April 16 2022: Exploring Camogli
 -------------------------------------------------------------------------------
-Coming soon!
+
+My next stop along the coast was a town called Camogli, on recommendation from
+a family friend who's family is from the area! I had a wonderful day walking
+around the town, relaxing on the beach, and eating delicious food. I am so 
+happy I had the chance to explore this town, it seems like a really special 
+place :)
+
+Mixed seafood risotto for lunch with a very cute espresso:
+
+<p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=1aBOh36pNVY3c9jf6v6dhZEBUqJ9OJhDm" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1VZTJTMI6oJIGd33mzc_ecD3GW-nye21b" width="49%"/> 
+</p>
+
+Walking around to beach and town:
+
+![image](https://drive.google.com/uc?export=view&id=1S7u32jM0J8zlEwleIA_L7GzAq9YUDqD-)
+
+Gelato break! Raspberry and lemon:
+
+![image](https://drive.google.com/uc?export=view&id=1JcLMjUdciQvQ8LVpAGDb7edh_YrN5pUc)
+
+Beautiful clouds over the water!
+
+<p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=1bpp44ZDapREzJ4WfpNBjfHA47HpMGDQC" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1IvQizKaYsugF6xoTX4eR4ziQEHdTenwU" width="49%"/> 
+</p>
+
+Revello's focaccia and pastries for dinner (the focaccia disappeared before I 
+remembered to take a picture):
+
+![image](https://drive.google.com/uc?export=view&id=1sG0y1Koo__Z-bi20Q2f2os2NlYlm9D7o)
 
 # April 17 2022: Genoa + Bordighera
 -------------------------------------------------------------------------------
