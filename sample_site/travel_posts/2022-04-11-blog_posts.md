@@ -8,6 +8,11 @@ layout: post
 	<pre>
 		
 	Long content here
+  
+  <p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA" width="49%"/> 
+  </p>
 	</pre>
 
 </details>
