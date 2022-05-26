@@ -53,13 +53,15 @@ Medici family behind the Pitti Palace in southern Florence. Some of the things
 I saw on the walk were: marble statues and fountains, the Lemon House 
 (a huge building full of potted citrus trees), and the palace.
 
-![image](https://drive.google.com/uc?export=view&id=1QOvfEnsRa1tpsduROeetz20G1LhQyu1l)
+<p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=1QOvfEnsRa1tpsduROeetz20G1LhQyu1l" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1us6moS-Xcp-YbFOSB1rftFFUk0r1qISH" width="49%"/> 
+</p>
 
-![image](https://drive.google.com/uc?export=view&id=1us6moS-Xcp-YbFOSB1rftFFUk0r1qISH)
-
-![image](https://drive.google.com/uc?export=view&id=1osgEf4x94W9i09ukPUK6wmSJPs3Y9ozT)
-
-![image](https://drive.google.com/uc?export=view&id=1KjI_BgT7gSP3laO0la2OEoF9tuSBd47o)
+<p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=1osgEf4x94W9i09ukPUK6wmSJPs3Y9ozT" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1KjI_BgT7gSP3laO0la2OEoF9tuSBd47o" width="49%"/> 
+</p>
 
 Lunch included the best coffee I've ever had and the best sandwich I've ever 
 had (focaccia, proscuitto, greens, and maybe marscapone?):
@@ -70,33 +72,29 @@ I spent the afternoon crossing the river and exploring the other half of the
 city. I stopped at the Mercato Centrale (a large indoor market with produce,
 meats, cheeses, olive oils, lunch), the Cathedral of Santa Maria del Fiore, 
 Palazzo Vecchio, and Ponte Vecchio. 
-![image](https://drive.google.com/uc?export=view&id=1O3deOVNwA21tXM4-q26MFE57eMw34nFp)
 
-![image](https://drive.google.com/uc?export=view&id=17pncnynuPr9UHaMPQTQGtcUy_UZR5gDQ)
-
-![image](https://drive.google.com/uc?export=view&id=1ApvUcjA8YkpEbhlDVMwb2lt74k3ZZYxQ)
-
-![image](https://drive.google.com/uc?export=view&id=182goQ6xwwutsw2gSm59AjMQf5ogACCou)
-
-<!-- ![image](https://drive.google.com/uc?export=view&id=1z18rUsBQCf8oa6hvN7UTRUpJ_Aa87G5X)
-
-![image](https://drive.google.com/uc?export=view&id=13TSAwA__COp-jYcBHHQiOQxF2Bwx2yMG) -->
 <p float="center">
-  <img src="https://drive.google.com/uc?export=view&id=1z18rUsBQCf8oa6hvN7UTRUpJ_Aa87G5X" width="49%"/>
-  <img src="https://drive.google.com/uc?export=view&id=13TSAwA__COp-jYcBHHQiOQxF2Bwx2yMG" width="49%"/> 
+  <img src="https://drive.google.com/uc?export=view&id=1O3deOVNwA21tXM4-q26MFE57eMw34nFp" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=17pncnynuPr9UHaMPQTQGtcUy_UZR5gDQ" width="49%"/> 
+</p>
+
+<p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=1ApvUcjA8YkpEbhlDVMwb2lt74k3ZZYxQ" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=182goQ6xwwutsw2gSm59AjMQf5ogACCou" width="49%"/> 
 </p>
 
 In the Salone dei Cinquecento (hall of the five hundred) at Palazzo Vecchio,
 there was this drawing of the hall full to capacity that made it so much cooler
 to see the room and think about how it would've actually been used at the time.
 
+<p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=1z18rUsBQCf8oa6hvN7UTRUpJ_Aa87G5X" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=13TSAwA__COp-jYcBHHQiOQxF2Bwx2yMG" width="49%"/> 
+</p>
+
 ![image](https://drive.google.com/uc?export=view&id=1SNAm_0vOZdUHIkXeUxkpmn2Bra3-jnZe)
 
 More amazing food - chocolate and hazelnut gelato, pici with bolognese:
-
-<!-- ![image](https://drive.google.com/uc?export=view&id=1xTpDoVYhx74D26sFZUivd69GYIik_N8v)
-
-![image](https://drive.google.com/uc?export=view&id=1Mmmzs_M824x0z4svnUo6Hslj9t6aV6ex) -->
 
 <p float="center">
   <img src="https://drive.google.com/uc?export=view&id=1xTpDoVYhx74D26sFZUivd69GYIik_N8v" width="49%"/>
@@ -123,11 +121,11 @@ I woke up early today and took the trip to Pisa as a first stop before
 continuing to Cinque Terre. Obligatory leaning tower picture + the two other
 beautiful structures right next to the tower that I never knew about:
 
-![image](https://drive.google.com/uc?export=view&id=1f5yjXzcoY9xeFuH7JT4jzw599crKvmlW)
-
-![image](https://drive.google.com/uc?export=view&id=1kg1frmoPKo8aN1_lvHqPNQqO5hQvnu7R)
-
-![image](https://drive.google.com/uc?export=view&id=1oaZ-Y4FSByZ-eZ9hmJyzNYUokjSTewG2)
+<p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=1f5yjXzcoY9xeFuH7JT4jzw599crKvmlW" width="32%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1kg1frmoPKo8aN1_lvHqPNQqO5hQvnu7R" width="32%"/> 
+  <img src="https://drive.google.com/uc?export=view&id=1oaZ-Y4FSByZ-eZ9hmJyzNYUokjSTewG2" width="32%"/> 
+</p>
 
 Stopped for a prosciutto, brie, pear, and honey sandwich before continuing on:
 
@@ -141,7 +139,7 @@ very long tunnel:
 
 Train station - right on the water!
 
-![image](https://drive.google.com/file/d/1a_cf1-NAiyll65UcSgvX3OTrvnRnZTXC/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1a_cf1-NAiyll65UcSgvX3OTrvnRnZTXC)
 
 My first half-hour in Riomaggiore was spent going up many flights of stairs:
 
@@ -189,9 +187,10 @@ Cool rock:
 
 Manarola:
 
-![image](https://drive.google.com/uc?export=view&id=114f_YqPn7NU-b3DlPNATKs4FhxMfLrCh)
-
-![image](https://drive.google.com/uc?export=view&id=16FHtC_bt62qS2bFwrgnvH09reqBwthnj)
+<p float="center">
+  <img src="https://drive.google.com/uc?export=view&id=114f_YqPn7NU-b3DlPNATKs4FhxMfLrCh" width="49%"/>
+  <img src="https://drive.google.com/uc?export=view&id=16FHtC_bt62qS2bFwrgnvH09reqBwthnj" width="49%"/> 
+</p>
 
 After stopping for lunch (spaghetti with clams!) and exploring Manarola, I took 
 the train on to Corniglia. I think this was my favorite of the towns, perched
@@ -314,10 +313,300 @@ Daily cat pic:
 
 ![image](https://drive.google.com/uc?export=view&id=159j3DJwxXJH3ULyq5C32RMy531SlKD4u)
 
-# April 18 2022: Saint-Raphael, France
+# April 18 2022 - May 16 2022: Saint-Raphael, France
 -------------------------------------------------------------------------------
-Coming soon!
 
-# April 18 2022 - current: Ceramics classes!
+A story in four parts:
+
+# Part 1: The Arrival
 -------------------------------------------------------------------------------
-Coming soon!
+
+I made it to Saint Rapahel! After a beautiful train ride from Italy, I arrived
+at the Saint Raphael train station and got to meet my ceramics mentor, Lauren,
+and her very cute dog, Rally. She gave me a ride to my AirBnB, where I managed
+to lock myself into the bathroom within five minutes of starting my stay. I was
+kindly rescued by my host after several frantic messages and phone calls.
+
+![image]() # bathroom
+
+The AirBnb itself was very cute and had everything I needed magically packed 
+into the compact space. It also had a terrace (bigger than the room itself) with
+a beautiful view of the town:
+
+![image]() # terrace
+![image]() # airbnb
+
+Once freed from the bathroom, I spent the afternoon walking around town and 
+trying to get groceries, which was harder than expected because it was Easter
+weekend. My favorite part of the walk was seeing all of the wildflowers growing
+along the sidewalks:
+
+![image]() # poppies
+
+While I had to give on finding groceries the first day, I did succeed the day
+after! I tried out my tiny kitchen and made some chicken soup and adas polo
+throughout the week, happy to be cooking again after eating out all of last week.
+
+![image]() # adas polo
+
+From here out, I spent the better part of the week in the ceramics studio! It was
+so exciting to have access to a studio all the time (after only having access
+3 hours a week back home) and to have the free time to actually use it! I had
+really useful lessons with Lauren in the mornings, where we worked on throwing
+and trimming bowls and rounded forms.
+
+![image]() # ceramics
+
+Other updates from the week:
+
+- I learned how to hang-dry laundry()
+
+![image]() # laundry
+
+- I discovered a cat across the street that looks a lot like Hippo and Bella 🥺
+
+![image]() # cat
+
+- I spent some time reading on the beach
+
+![image]() # beach
+
+- The coffee quality notably decreased after leaving Italy, but the pastry
+  quality notably increased
+
+  ![image]() # breakfast
+
+(No longer daily) cat pic:
+
+![image]() # cat
+
+# Part 2: The Setback
+-------------------------------------------------------------------------------
+
+After a few days of settling in and going to the studio, I got covid :( 
+
+![image]() # test
+
+Not much happened for the next few days besides watching a lot of Kim's 
+Convenience, The Office, and Gossip Girl, and finishing Twilight book 1. Once 
+my fever broke, I started making it down to the beach for some distanced fresh 
+air, which was a very nice perk of having to quarantine in Saint Raphael.
+
+![image]() # beach
+
+
+# Part 3: The Recovery
+-------------------------------------------------------------------------------
+
+After my quarantine ended I got to start classes in the studio again. My 
+favorite thing I learned during this time was how to make jars with lids! I had
+fun learning about how to shape the lid to fit well into the jar, and how to
+shape different kinds of knobs.
+
+![image]() # ceramics
+
+Lauren and I went on a hike with Rally, which was very refreshing after being
+cooped up for a while:
+![image]()
+
+I got back too cooking as well:
+
+- salmon and rice
+![image]() # salmon
+
+- a questionable stove-top nutella cake that I would not make again
+![image]() # cake
+
+- chicken tortilla soup
+![image]() # soup
+
+It was around this time that Rupesh came to visit as well! We went on several
+fun adventures to towns near Saint Rapahael by train:
+- spent a day exploring Toulon, Les Arcs, and Carnoules (we had actually meant 
+  to go to Antibes but took the train in the wrong direction 🙃)
+  ![image]()
+- took a train/bus combination to the hill-top village of Saint Paul de Vence, 
+  where we explored a bunch of art galleries and visited the Maeght Museum
+  ![image]()
+- went on a scooter ride (my first time!!) along the coast and stopped at some 
+  beaches along the way
+  ![image]()
+  (I quickly learned that I had underestimated how hard it would be to learn to
+  ride one:
+  ![image]())
+- got daily espresso and pain au chocolats for breakfast:
+  ![image]()
+  These were by far the best pain au chocolats I have ever had - they were
+  somehow almost brioche-like on the inside but still flaky and crispy on the
+  outside, and the chocolate was a softer consistency than most served in the
+  US. 
+
+No longer daily cat pic:
+![image]()
+    
+# Pot 4: The Clay
+-------------------------------------------------------------------------------
+
+For my last week in Saint Raphael, I got to spend basically all day every day 
+in the studio :) I worked on making multiple of the same shape, focusing on 
+espresso cups, mugs (which also meant I learned how to make handles), larger
+bowls, and little lidded jars.
+
+![image]()
+
+I also tagged along with Lauren for a ceramics supply store field trip in 
+Valauris, and we got delicious pizza for lunch in Cannes.
+
+![image]() # ?
+
+A highlight of the week was doing a survey of various french patisserie:
+
+TODO: remember names
+
+![image]()
+
+Food highlights from the week:
+
+- Scallop risotto
+![image]()
+- Delicious chilled capuccino (they chilled it with a cocktail shaker instead
+  of ice so it wouldn't become watery!! Genius!!)
+![image]()
+- Poke (with passionfruit as a topping!) on another trip to Cannes
+![image]()
+
+Cooking projects:
+- shrimp and mushroom dumplings
+- turmeric salmon rice thing
+- Lemon panna cotta with pomegrante seeds (I gave up on trying to bake things
+  on the stove that should go in the oven)
+
+No longer daily cat pic:
+![image]()
+
+
+# May 16 2022: Lyon, France
+-------------------------------------------------------------------------------
+
+On Monday morning I said goodbye to my little apartment, got one last pain
+au chocolat from my favorite bakery, and set out for Lyon. The trip was a bit
+hectic with what started out as a 30 minute delay do to train computer system
+issues in Antibes turning into a 3.5 hour delay due to a track switching issue
+in Cannes. Eventually a bunch of other passengers and I were hearded onto a 
+different train to Marseilles and told to find connecting trains from there. 
+Though a bit late, I did make it to Lyon in the end and spent my first night
+at a hostel! It was nice to be staying around other travelers and I had a great
+time walking around the old Lyon area. For dinner, I had spaghetti with 
+shitake mushrooms, turmeric, and oregano (a surprisingly good flavor 
+combination!) at a very Silverlake-looking restaurant.
+
+# May 17 2022: Lyon, France --> Dijon, France --> Basel, Switzerland --> Freiburg, Germany
+-------------------------------------------------------------------------------
+
+Today was a very big travel day! After a frantic dash across Lyon with my pack 
+to the train station (I may have stopped for coffee instead of leaving at a 
+reasonable time), I was confronted by a man at the platform entrance telling me 
+I couldn't pass. Of course, I didn't understand what he was saying, and so I 
+tried to argue that I had three more minutes to get on the train and that they 
+had to let me on. It wasn't until another traveler who spoke both French and 
+English explained to me that they were investigating a bag left behind on the 
+train that I realized I was the crazy foreigner trying to push past the bomb 
+squad to get onto a train that wasn't going anywhere anytime soon.
+
+The coffee in question that was totally worth it:
+![image]()
+
+I ended up getting on the next train to Dijon (my connection point on the way
+to Basel) and had a very nice conversation with the person who translated the 
+situation for me at the platform. She and her colleague were in France on a 
+business trip from Mauritus, and it was very cool to hear the descriptions and 
+perspectives on a country I knew so little about.
+
+Since there was the delay getting into Dijon, I ended up having 1.5 hours to 
+spare, which I am thankful for in retrospect because I had such a great time 
+exploring the town during the unexpected stop. Walking out of the train station,
+I immediately landed in a beautiful park/botanical garden, which had an area
+of roses in full bloom and shaded trails around pond. I walked through the park
+and found a lunch spot 15 minutes away at a focaccia cafe - one of the best
+lunches on the trip so far!
+
+![image]() # roses
+![image]() # focaccia
+![image]() # church
+
+A couple hours later, I arrived in Basel. I first walked to the Tinguely
+fountain, which made me laugh out loud as I watched the various water 
+contraptions wiggle around:
+
+I then walked by the Rathaus, crossed the river by bridge, and took a little 
+ferry powered completely by the current back.
+
+The city as a whole was so beautiful and well-organized, and everyone I 
+interacted with was incredibly polite and kind. I got very strong utopia vibes
+for the couple hours I was there and would love to back and visit longer
+someday.
+
+I ended my day in Freiburg, Germany, another utopic town! As I walked through 
+the town upon arriving, there was hardly a single car on the road, but instead
+just frequent city trains and fleets of bicycles. People were dancing in the
+park, picnicing in the city square, and overall everyone seemed so carefree for 
+a Tuesday afternoon. Again, another place I would like to visit for longer in
+the future!
+
+I met a sister of a friend here for dinner, and she introduced me to spargel 
+(white asparagus) which apparently has been the current food trend in the area. 
+She also took me to the main biergarten in Freiburg, which was a lot of fun to see!
+
+
+# May 18 2022: Freiburg, Hinterzarten, Heidelburg
+-------------------------------------------------------------------------------
+
+After another smooth hostel stay, I caught the train to Hinterzarten for a hike
+in the Ravennaschlucht (Ravenna Gorge). This was a beautiful trail that ran
+along a creek most of the way. Along the way, there were old water mills used
+to power saws for logging. The mills were still completely intact, so it was
+really interesting to see how the water was redirected and how the water wheel
+could power a saw. 
+
+About a third of the way through, the trail opened up onto a small town that
+used to host a glass workshop that is now inhabited by modern glassblowers.
+
+I then passed under an enormous bridge that I had ridden over on my train ride
+in, and entered back into the canyon where there were foot bridges for river
+crossings and catwalks built into the rock faces where there wasn't space for 
+a trail next to the water.
+
+The last stretch of the hike went though open plains with yellow wildflowers 
+and a fence sock collection.
+
+I made my way to Heidelberg in the evening and tried schnitzel for the first
+time! Though I wasn't sure I would like it from the pictures I'd seen, it was
+actually delicious :)
+
+# May 19 2022: Heidelberg --> Köln
+-------------------------------------------------------------------------------
+
+I started my morning with a capuccino and a new-to-me pastry called a nus kipferl,
+which seemed like a cross between a croissant and a donut.
+
+![image]()
+
+I then hiked my way up to philosophenweg (Philosopher's Way), a path that
+philosphers from the university apparently used to take walks along through 
+vineyards on the slopes overlooking the Rhine, and that is now a nicely paved
+walking path through gardens that have replaced the vineyards. There was an
+amazing view of the city and the castle across the valley from the path, and it
+was a nice quiet spot to start the day.
+
+![image]()
+
+After discovering that I could rent the electric scooters around town, I 
+scooted my way to the university's botanical gardens. I was blown away by the
+number of plants they had growing in the green houses there. I was super 
+excited to walk through the desert section and to see so many of the plants
+that grow around Pasadena. 
+
+![image]()
+
+
+
