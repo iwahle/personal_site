@@ -3,18 +3,20 @@ layout: post
 # title: Europe 2022
 ---
 
+# Section title
+-------------------------------------------------------------------------------
 
-[expand]
-
+<details>
+	<summary>Click to expand</summary>
+		
 	Long content here
 
   <p float="center">
-  <img src="https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ" width="49%"/>
-  <img src="https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA" width="49%"/> 
+  <img src="https://drive.google.com/uc?export=view&id=1O0Q4R4bjUnrB5uuB2SJgcqQtx5YPIOoQ" width="40%"/>
+  <img src="https://drive.google.com/uc?export=view&id=14PrAvF7ZOQzkR2PnBCrN_LypzQljURQA" width="40%"/> 
   </p>
 
-[/expand]
-
+</details>
 
 # April 11 2022: Headed to Florence!
 -------------------------------------------------------------------------------
