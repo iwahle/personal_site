@@ -3,6 +3,14 @@ layout: post
 # title: Europe 2022
 ---
 
+<details>
+	<summary>Click to expand</summary>
+	<pre>
+		
+	Long content here
+	</pre>
+
+</details>
 
 # April 11 2022: Headed to Florence!
 -------------------------------------------------------------------------------
