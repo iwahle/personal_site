@@ -8,7 +8,7 @@ layout: post
 
 A story in four parts:
 
-# Part 1: The Arrival
+## Part 1: The Arrival
 -------------------------------------------------------------------------------
 
 I made it to Saint Rapahel! After a beautiful train ride from Italy, I arrived
@@ -69,7 +69,7 @@ Other updates from the week:
 
 ![image](https://drive.google.com/uc?export=view&id=1dLvm60kb8lshkfrIB00bI526ImF-LfN2)
 
-# Part 2: The Setback
+## Part 2: The Setback
 -------------------------------------------------------------------------------
 
 After a few days of settling in and going to the studio, I got covid :( 
@@ -83,7 +83,7 @@ air, which was a very nice perk of having to quarantine in Saint Raphael.
 
 ![image](https://drive.google.com/uc?export=view&id=1kIYDD1tOiVOVUTI1RwVEH2d4ATCnCoGG)
 
-# Part 3: The Recovery
+## Part 3: The Recovery
 -------------------------------------------------------------------------------
 
 After my quarantine ended I got to start classes in the studio again. My 
@@ -134,7 +134,7 @@ fun adventures to towns near Saint Rapahael by train:
 Cat pic:
 ![image](https://drive.google.com/uc?export=view&id=12NqRfbJcZ-_RI7VyVxiYypGP_zq_oLct)
     
-# Pot 4: The Clay
+## Pot 4: The Clay
 -------------------------------------------------------------------------------
 
 For my last week in Saint Raphael, I got to spend basically all day every day 
