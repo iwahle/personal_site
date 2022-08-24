@@ -121,7 +121,7 @@ fun adventures to towns near Saint Rapahael by train:
 - went on a scooter ride (my first time!!) along the coast and stopped at some 
   beaches along the way (I quickly learned that I had underestimated how hard it
   would be to learn to ride one:
-  ![image](https://drive.google.com/uc?export=view&id=)
+  ![image](https://drive.google.com/uc?export=view&id=11ehtRe6YTazSdI34XvC2YSwZhzC7hr6u)
   
 - got daily espresso and pain au chocolats for breakfast:
   ![image](https://drive.google.com/uc?export=view&id=1Uaka_ANZNsaEj3tUGQ71BQDTXNk8UnXU)
