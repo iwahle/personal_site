@@ -47,6 +47,7 @@ worked on throwing and trimming bowls and rounded forms.
 
 ![image](https://drive.google.com/uc?export=view&id=1nGmYv_sUWy1C8FSE8A0Kgh9E19YEfYgQ)
 ![image](https://drive.google.com/uc?export=view&id=1LBfseeeg93xBgeatsplZRrT87XcCizSd)
+![image](https://drive.google.com/uc?export=view&id=1d-_AxsLtJXhrtT9NBQeBK_YiORzF57cr)
 ![image](https://drive.google.com/uc?export=view&id=1iZhD4ftx0MsZP3JIXrEa3X4iq4yDzvnD)
 
 Other updates from the week:
@@ -131,7 +132,7 @@ fun adventures to towns near Saint Rapahael by train:
   US. 
 
 Cat pic:
-![image](https://drive.google.com/uc?export=view&id=)
+![image](https://drive.google.com/uc?export=view&id=12NqRfbJcZ-_RI7VyVxiYypGP_zq_oLct)
     
 # Pot 4: The Clay
 -------------------------------------------------------------------------------
