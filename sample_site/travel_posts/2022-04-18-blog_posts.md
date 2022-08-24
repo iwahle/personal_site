@@ -23,21 +23,21 @@ The AirBnb itself was very cute and had everything I needed magically packed
 into the compact space. It also had a terrace (bigger than the room itself) with
 a beautiful view of the town:
 
-![image](https://drive.google.com/uc?export=view&id=
-![image](https://drive.google.com/uc?export=view&id=
+![image](https://drive.google.com/uc?export=view&id=1WgAnc6ojodLtawMyrnMkmQPvcHoz_RfU)
+![image](https://drive.google.com/uc?export=view&id=1fI39080AtmTmZre0X1WidBT1spzVo_u2)
 
 Once freed from the bathroom, I spent the afternoon walking around town and 
 trying to get groceries, which was harder than expected because it was Easter
 weekend. My favorite part of the walk was seeing all of the wildflowers growing
 along the sidewalks:
 
-![image]() # poppies
+![image](https://drive.google.com/uc?export=view&id=1b9RPTkBw8JlvEBgvh8_HmFsrTSjvliwq)
 
-While I had to give on finding groceries the first day, I did succeed the day
+While I had to give up on finding groceries the first day, I did succeed the day
 after! I tried out my tiny kitchen and made some chicken soup and adas polo
 throughout the week, happy to be cooking again after eating out all of last week.
 
-![image]() # adas polo
+![image](https://drive.google.com/uc?export=view&id=1zfxTKDxpowk5HnxaMbHVOdFpCTPxNLS0)
 
 From here out, I spent the better part of the week in the ceramics studio! It was
 so exciting to have access to a studio all the time (after only having access
@@ -45,44 +45,45 @@ so exciting to have access to a studio all the time (after only having access
 really useful lessons with Lauren in the mornings, where we worked on throwing
 and trimming bowls and rounded forms.
 
-![image]() # ceramics
+![image](https://drive.google.com/uc?export=view&id=1nGmYv_sUWy1C8FSE8A0Kgh9E19YEfYgQ)
+![image](https://drive.google.com/uc?export=view&id=1iZhD4ftx0MsZP3JIXrEa3X4iq4yDzvnD)
 
 Other updates from the week:
 
-- I learned how to hang-dry laundry()
+- I learned how to hang-dry laundry:
 
-![image]() # laundry
+![image](https://drive.google.com/uc?export=view&id=1fg3zPSKKMhIxslvEQf8u28wh0UqxBNK4)
 
 - I discovered a cat across the street that looks a lot like Hippo and Bella 🥺
 
-![image]() # cat
+![image](https://drive.google.com/uc?export=view&id=12nX3Vv8VcUHXDmF9ylzCYWyM8AV2S5VT)
 
 - I spent some time reading on the beach
 
-![image]() # beach
+![image](https://drive.google.com/uc?export=view&id=1kIYDD1tOiVOVUTI1RwVEH2d4ATCnCoGG)
 
 - The coffee quality notably decreased after leaving Italy, but the pastry
   quality notably increased
 
-  ![image]() # breakfast
+  ![image](https://drive.google.com/uc?export=view&id=15nbSWrYHIghBAa_YMsxBkf8S3G6of1OZ)
 
 (No longer daily) cat pic:
 
-![image]() # cat
+![image](https://drive.google.com/uc?export=view&id=1dLvm60kb8lshkfrIB00bI526ImF-LfN2)
 
 # Part 2: The Setback
 -------------------------------------------------------------------------------
 
 After a few days of settling in and going to the studio, I got covid :( 
 
-![image]() # test
+![image](https://drive.google.com/uc?export=view&id=10lwuSKEwLjv43ySsnaNjKQH8UU95ll-b) 
 
 Not much happened for the next few days besides watching a lot of Kim's 
 Convenience, The Office, and Gossip Girl, and finishing Twilight book 1. Once 
 my fever broke, I started making it down to the beach for some distanced fresh 
 air, which was a very nice perk of having to quarantine in Saint Raphael.
 
-![image]() # beach
+![image](https://drive.google.com/uc?export=view&id=) # beach
 
 
 # Part 3: The Recovery
@@ -93,46 +94,46 @@ favorite thing I learned during this time was how to make jars with lids! I had
 fun learning about how to shape the lid to fit well into the jar, and how to
 shape different kinds of knobs.
 
-![image]() # ceramics
+![image](https://drive.google.com/uc?export=view&id=) # ceramics
 
 Lauren and I went on a hike with Rally, which was very refreshing after being
 cooped up for a while:
-![image]()
+![image](https://drive.google.com/uc?export=view&id=)
 
 I got back too cooking as well:
 
 - salmon and rice
-![image]() # salmon
+![image](https://drive.google.com/uc?export=view&id=) # salmon
 
 - a questionable stove-top nutella cake that I would not make again
-![image]() # cake
+![image](https://drive.google.com/uc?export=view&id=) # cake
 
 - chicken tortilla soup
-![image]() # soup
+![image](https://drive.google.com/uc?export=view&id=) # soup
 
 It was around this time that Rupesh came to visit as well! We went on several
 fun adventures to towns near Saint Rapahael by train:
 - spent a day exploring Toulon, Les Arcs, and Carnoules (we had actually meant 
   to go to Antibes but took the train in the wrong direction 🙃)
-  ![image]()
+  ![image](https://drive.google.com/uc?export=view&id=)
 - took a train/bus combination to the hill-top village of Saint Paul de Vence, 
   where we explored a bunch of art galleries and visited the Maeght Museum
-  ![image]()
+  ![image](https://drive.google.com/uc?export=view&id=)
 - went on a scooter ride (my first time!!) along the coast and stopped at some 
   beaches along the way
-  ![image]()
+  ![image](https://drive.google.com/uc?export=view&id=)
   (I quickly learned that I had underestimated how hard it would be to learn to
   ride one:
-  ![image]())
+  ![image](https://drive.google.com/uc?export=view&id=)
 - got daily espresso and pain au chocolats for breakfast:
-  ![image]()
+  ![image](https://drive.google.com/uc?export=view&id=)
   These were by far the best pain au chocolats I have ever had - they were
   somehow almost brioche-like on the inside but still flaky and crispy on the
   outside, and the chocolate was a softer consistency than most served in the
   US. 
 
 No longer daily cat pic:
-![image]()
+![image](https://drive.google.com/uc?export=view&id=)
     
 # Pot 4: The Clay
 -------------------------------------------------------------------------------
@@ -142,28 +143,28 @@ in the studio :) I worked on making multiple of the same shape, focusing on
 espresso cups, mugs (which also meant I learned how to make handles), larger
 bowls, and little lidded jars.
 
-![image]()
+![image](https://drive.google.com/uc?export=view&id=)
 
 I also tagged along with Lauren for a ceramics supply store field trip in 
 Valauris, and we got delicious pizza for lunch in Cannes.
 
-![image]() # ?
+![image](https://drive.google.com/uc?export=view&id=) # ?
 
 A highlight of the week was doing a survey of various french patisserie:
 
 TODO: remember names
 
-![image]()
+![image](https://drive.google.com/uc?export=view&id=)
 
 Food highlights from the week:
 
 - Scallop risotto
-![image]()
+![image](https://drive.google.com/uc?export=view&id=)
 - Delicious chilled capuccino (they chilled it with a cocktail shaker instead
   of ice so it wouldn't become watery!! Genius!!)
-![image]()
+![image](https://drive.google.com/uc?export=view&id=)
 - Poke (with passionfruit as a topping!) on another trip to Cannes
-![image]()
+![image](https://drive.google.com/uc?export=view&id=)
 
 Cooking projects:
 - shrimp and mushroom dumplings
@@ -172,5 +173,5 @@ Cooking projects:
   on the stove that should go in the oven)
 
 No longer daily cat pic:
-![image]()
+![image](https://drive.google.com/uc?export=view&id=)
 

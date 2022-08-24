@@ -5,7 +5,7 @@ layout: post
 
 # April 14 2022: Pisa + Riomaggiore
 -------------------------------------------------------------------------------
-I woke up early today and took the trip to Pisa as a first stop before
+I woke up early today and took the train to Pisa as a first stop before
 continuing to Cinque Terre. Obligatory leaning tower picture + the two other
 beautiful structures right next to the tower that I never knew about:
 
