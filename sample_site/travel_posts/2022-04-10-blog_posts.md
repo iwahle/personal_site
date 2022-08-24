@@ -3,7 +3,7 @@ layout: post
 # title: main
 ---
 
-## [Florence, Italy](travel_posts/2022-04-11-blog_posts.html)
+## [Florence, Italy](2022-04-11-blog_posts.html)
 
 ## [Cinque Terre, Italy](travel_posts/2022-04-14-blog_posts.html)
 
