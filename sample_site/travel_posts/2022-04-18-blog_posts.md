@@ -47,7 +47,6 @@ worked on throwing and trimming bowls and rounded forms.
 
 ![image](https://drive.google.com/uc?export=view&id=1nGmYv_sUWy1C8FSE8A0Kgh9E19YEfYgQ)
 ![image](https://drive.google.com/uc?export=view&id=1LBfseeeg93xBgeatsplZRrT87XcCizSd)
-![image](https://drive.google.com/uc?export=view&id=1d-_AxsLtJXhrtT9NBQeBK_YiORzF57cr)
 ![image](https://drive.google.com/uc?export=view&id=1iZhD4ftx0MsZP3JIXrEa3X4iq4yDzvnD)
 
 Other updates from the week:
@@ -142,7 +141,7 @@ in the studio :) I worked on making multiple pieces of the same shape, focusing 
 espresso cups, mugs (which also meant I learned how to make handles), larger
 bowls, and little lidded jars.
 
-![image](https://drive.google.com/uc?export=view&id=K2Eyp9gorHa5mBZIfd6qZ0Nfx1d1)
+![image](https://drive.google.com/uc?export=view&id=1pM4-K2Eyp9gorHa5mBZIfd6qZ0Nfx1d1)
 ![image](https://drive.google.com/uc?export=view&id=17gkdwmjqH1k7kDLs4fqtRX_jTtZoEJEI)
 ![image](https://drive.google.com/uc?export=view&id=1fm0B62VdYGBH73unXmz6tnOfPjfuz-0F)
 ![image](https://drive.google.com/uc?export=view&id=199FutDcHWKOgBmF310mSSMHZrKKNaxMv)
@@ -179,7 +178,4 @@ Cooking projects this week:
 - turmeric salmon rice concoction
 - Lemon panna cotta with pomegrante seeds (I gave up on trying to bake things
   on the stove that should really go in the oven)
-
-Cat pic:
-![image](https://drive.google.com/uc?export=view&id=)
 
